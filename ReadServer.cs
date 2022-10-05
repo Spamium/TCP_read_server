@@ -37,7 +37,7 @@ namespace TCP_read_server
                 while (client.Connected)  
                 {
                     // messages are are bytes
-                    byte[] msg = new byte[1024];
+                    byte[] msg = new byte[64];
 
                     // the method Read allows us to retrieve the message
                     ns.Read(msg, 0, msg.Length);

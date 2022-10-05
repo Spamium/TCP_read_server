@@ -6,3 +6,11 @@ C:\Users\hugo0\source\repos\TCP_simple_sclient\obj\Debug\TCP_simple_client.cspro
 C:\Users\hugo0\source\repos\TCP_simple_sclient\obj\Debug\TCP_simple_client.csproj.CoreCompileInputs.cache
 C:\Users\hugo0\source\repos\TCP_simple_sclient\obj\Debug\TCP_simple_sclient.exe
 C:\Users\hugo0\source\repos\TCP_simple_sclient\obj\Debug\TCP_simple_sclient.pdb
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\bin\Debug\TCP_simple_sclient.exe.config
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\bin\Debug\TCP_simple_sclient.exe
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\bin\Debug\TCP_simple_sclient.pdb
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\obj\Debug\TCP_simple_client.csproj.AssemblyReference.cache
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\obj\Debug\TCP_simple_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\obj\Debug\TCP_simple_client.csproj.CoreCompileInputs.cache
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\obj\Debug\TCP_simple_sclient.exe
+C:\Users\hugo0\source\repos\TCP_read_server\TCP_simple_client\obj\Debug\TCP_simple_sclient.pdb

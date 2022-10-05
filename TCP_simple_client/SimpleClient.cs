@@ -30,7 +30,7 @@ namespace TCP_simple_client
 
                 //---send the text---
                 nwStream.Write(bytesToSend, 0, bytesToSend.Length);
-                Console.WriteLine("Sent!");
+                Console.WriteLine("Sent!\n");
 
             }
             client.Close();
