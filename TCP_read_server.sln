@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_read_server", "TCP_read_server.csproj", "{D8B52EF1-18FE-49C4-ACA2-DD7CC9E331C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_simple_client", "..\TCP_simple_sclient\TCP_simple_client.csproj", "{D3F267E4-54BD-4746-B578-0FFC7E1B5CAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_simple_client", "TCP_simple_client\TCP_simple_client.csproj", "{D3F267E4-54BD-4746-B578-0FFC7E1B5CAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

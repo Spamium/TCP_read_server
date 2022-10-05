@@ -1,0 +1,8 @@
+C:\Users\hugo0\source\repos\TCP_read_server\obj\Debug\TCP_read_server.csproj.AssemblyReference.cache
+C:\Users\hugo0\source\repos\TCP_read_server\obj\Debug\TCP_read_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo0\source\repos\TCP_read_server\obj\Debug\TCP_read_server.csproj.CoreCompileInputs.cache
+C:\Users\hugo0\source\repos\TCP_read_server\bin\Debug\TCP_read_server.exe.config
+C:\Users\hugo0\source\repos\TCP_read_server\bin\Debug\TCP_read_server.exe
+C:\Users\hugo0\source\repos\TCP_read_server\bin\Debug\TCP_read_server.pdb
+C:\Users\hugo0\source\repos\TCP_read_server\obj\Debug\TCP_read_server.exe
+C:\Users\hugo0\source\repos\TCP_read_server\obj\Debug\TCP_read_server.pdb
